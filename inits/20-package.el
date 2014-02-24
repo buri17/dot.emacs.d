@@ -11,6 +11,8 @@
 (defvar installing-package-list
   '(
     ;; ここに使っているパッケージを書く。
+    helm
+    f
     php-mode
     scala-mode
     markdown-mode
@@ -20,7 +22,7 @@
     yaml-mode
     open-junk-file
     flycheck
-    zenbun-theme
+    zenburn-theme
     auto-complete
     ))
 
